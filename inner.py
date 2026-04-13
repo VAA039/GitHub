@@ -1,7 +1,6 @@
-print(Trueпше сру)
-print(11111)
+print(True)
 print(11111)
 
-# Hellllo
 
-git branch new_feature
+
+ 
